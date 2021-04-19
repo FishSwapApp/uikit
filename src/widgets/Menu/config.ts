@@ -31,7 +31,7 @@ export const links = [
   {
     label: "Certik Audit (In-Progress)",
     icon: "ShieldIcon",
-    href: "https://twitter.com/fishswap/status/1367218225310818308",
+    href: "https://twitter.com/FishSwapApp/status/1367218225310818308",
     target: "_blank",
   },
   {
@@ -119,7 +119,7 @@ export const links = [
       },
       {
         label: "Blog",
-        href: "https://fishswap.medium.com/",
+        href: "https://fishswapapp.medium.com/",
       },
     ],
   },
@@ -136,14 +136,14 @@ export const socials = [
       },
       {
         label: "Announcements",
-        href: "https://t.me/fishswap",
+        href: "https://t.me/fishswapchannel",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/fishswap",
+    href: "https://twitter.com/FishSwapApp",
   },
 ];
 

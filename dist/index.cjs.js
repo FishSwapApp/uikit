@@ -2266,7 +2266,7 @@ var links = [
     {
         label: "Certik Audit (In-Progress)",
         icon: "ShieldIcon",
-        href: "https://twitter.com/fishswap/status/1367218225310818308",
+        href: "https://twitter.com/FishSwapApp/status/1367218225310818308",
         target: "_blank",
     },
     {
@@ -2354,7 +2354,7 @@ var links = [
             },
             {
                 label: "Blog",
-                href: "https://fishswap.medium.com/",
+                href: "https://fishswapapp.medium.com/",
             },
         ],
     },
@@ -2370,14 +2370,14 @@ var socials = [
             },
             {
                 label: "Announcements",
-                href: "https://t.me/fishswap",
+                href: "https://t.me/fishswapchannel",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/fishswap",
+        href: "https://twitter.com/FishSwapApp",
     },
 ];
 var MENU_HEIGHT = 64;
@@ -2969,17 +2969,17 @@ var templateObject_1$N;
 
 var baseColors = {
     failure: "#cd3e5f",
-    primary: "#41aa29",
+    primary: "#19589c",
     primaryBright: "#50aa29",
     primaryDark: "#348c22",
-    secondary: "#45d9bb",
+    secondary: "#1968bd",
     success: "#31D0AA",
     warning: "#FFB237",
 };
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#ffffff", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#424f3e", textDisabled: "#BDC2C4", textSubtle: "#62815c", borderColor: "#E9EAEB", card: "#FFFFFF", nav: "#f9fdf9", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#ffffff", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#103b69", textDisabled: "#BDC2C4", textSubtle: "#62815c", borderColor: "#E9EAEB", card: "#FFFFFF", nav: "#f9fdf9", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#9A6AFF", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", nav: "#27262c", gradients: {
