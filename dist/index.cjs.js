@@ -2345,7 +2345,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/FishSwapDefi",
+                href: "https://github.com/FishSwapApp",
                 target: '_blank',
             },
             {
