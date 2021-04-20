@@ -2478,7 +2478,7 @@ var templateObject_1$E;
 var PriceLink = styled.a(templateObject_1$F || (templateObject_1$F = __makeTemplateObject(["\n  display: flex;\n  align-items: center;\n  svg {\n    transition: transform 0.3s;\n  }\n  :hover {\n    svg {\n      transform: scale(1.2);\n    }\n  }\n"], ["\n  display: flex;\n  align-items: center;\n  svg {\n    transition: transform 0.3s;\n  }\n  :hover {\n    svg {\n      transform: scale(1.2);\n    }\n  }\n"])));
 var CakePrice = function (_a) {
     var cakePriceUsd = _a.cakePriceUsd;
-    return cakePriceUsd ? (React.createElement(PriceLink, { href: "https://dex.guru/token/0xBd3020994dC13C5165E00AEE26Ed5EB5005990C2-bsc", target: "_blank" },
+    return cakePriceUsd ? (React.createElement(PriceLink, { href: "https://dex.guru/token/0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D-bsc", target: "_blank" },
         React.createElement(Icon$x, { width: "24px", mr: "8px" }),
         React.createElement(Text, { color: "textSubtle", bold: true }, "$" + cakePriceUsd.toFixed(3)))) : (React.createElement(Skeleton, { width: 80, height: 24 }));
 };
